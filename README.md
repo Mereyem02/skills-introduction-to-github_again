@@ -1,74 +1,58 @@
-<header>
+# Hi there, I'm Mereyem! 👋
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## 🚀 About Me
 
-# Introduction to GitHub
+I'm a passionate developer with a strong interest in web development, mobile applications, and artificial intelligence. I enjoy building practical solutions that solve real-world problems and continuously expanding my technical skills.
 
-_Get started using GitHub in less than an hour._
+## 💻 Technical Skills
 
-</header>
+- **Languages:** JavaScript, Python, Java, CSS, HTML
+- **Web Development:** Full-stack development, responsive design
+- **Mobile Development:** Android applications
+- **AI/ML:** Facial recognition, computer vision
+- **Tools & Technologies:** Git, GitHub, Web APIs
 
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
+## 🔭 Featured Projects
 
-## Welcome
+### 🤖 [Facial Recognition Project](https://github.com/Mereyem02/reconnaissance_Faciale_Project)
+A facial recognition application developed during an internship at LafargeHolcim-Meknes. Implements computer vision and AI technologies using JavaScript.
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
+### 🏠 [Airbnb-Type Rental Platform](https://github.com/Mereyem02/Application-de-Location-Type-Airbnb)
+A modern web platform enabling users to publish and manage rental property listings (apartments, studios, houses, villas) with detailed photos and descriptions.
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This course takes less than one hour to complete.
+### 💪 [FitGym App](https://github.com/Mereyem02/FitGymApp)
+A mobile fitness application for managing gym activities, built with Java for Android. Helps users track their fitness journey directly from their phones.
 
-In this course, you will:
+### 🐍 [Python Projects](https://github.com/Mereyem02/PythonProject)
+Collection of Python projects demonstrating various programming concepts and problem-solving approaches.
 
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
+### 🌐 [JavaScript Projects](https://github.com/Mereyem02/Javascript_Project)
+Web development projects showcasing modern JavaScript and CSS techniques.
 
-### How to start this course
+## 🌱 Currently Learning
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'introduction-to-github',
-  owner: '@me',
-  name: 'skills-introduction-to-github',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
+- Advanced web development techniques
+- Mobile app development best practices
+- Machine learning and AI applications
+- Cloud technologies and deployment
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=My+clone+repository&visibility=public)
+## 📫 How to Reach Me
 
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+- GitHub: [@Mereyem02](https://github.com/Mereyem02)
+- Feel free to explore my repositories and contribute!
 
-<footer>
+## 📊 GitHub Stats
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+![Mereyem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mereyem02&show_icons=true&theme=radical)
+
+## 🎯 Goals for 2025
+
+- 🚀 Contribute to more open-source projects
+- 📱 Build and deploy more mobile applications
+- 🤖 Deepen knowledge in AI and machine learning
+- 🌐 Master modern web frameworks
+- 📚 Share knowledge through documentation and tutorials
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+⭐️ From [Mereyem02](https://github.com/Mereyem02)
